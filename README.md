@@ -20,7 +20,7 @@
 * For each of the following tasks, add a new file to the `reports/` folder demonstrating a query that meets the needs of the report:
   * Total number of policies by carrier.
   * Total number of policies by type.
-  * Total number of users grouped by policy count.
+  * The names of the top 10 users with the highest policy count.
 
 ## Submission
 
